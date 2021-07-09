@@ -12,3 +12,5 @@ Güvenlik , gecesi gündüzü yok...
 Donate(Bitcoin):
 16r1e7C5Him8eTDyQVrtCmSMyNqruTodyt
 
+![](https://github.com/expday/Yazilarim/raw/main/bitcoin-qrcode.png)
+
