@@ -3,27 +3,27 @@
 Geçmiş zamanlarda yazdığım yazılar.
 
 
-#Haziran 2013
+#Haziran 2013 / 
 Sayısal_Uydu_Alıcıları_ve_İnternetteki_güvenlikleri.pdf
 
 
-#Kasım 2011
-Jnyx Rootkit Analiz
+#Kasım 2011 / 
+Jnyx Rootkit Analiz / 
 jynx-rootkit.pdf
 
 
-#Aralık 2010
-PDF Malware Analiz
+#Aralık 2010 / 
+PDF Malware Analiz / 
 PDF-Malware.pdf
 
 
-#Haziran 2010
-Bot Network
+#Haziran 2010 / 
+Bot Network / 
 Bot_Network.pdf
 
 
-#Eylül 2009
-Sahte Exploitler
+#Eylül 2009 / 
+Sahte Exploitler / 
 Fake_Exploit.pdf
 
 
