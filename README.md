@@ -6,7 +6,7 @@ Geçmiş zamanlarda yazdığım yazılar.
 
 Her ne kadar yazdıklarım yıllar öncesine ait olsa bile güncelliğini koruyor.
 
-Güvenlik , gecesi gündüzü yok...
+<p style='color:blue'>###### **Güvenlik , gecesi gündüzü yok...**</p>
 
 
 Donate(Bitcoin):
