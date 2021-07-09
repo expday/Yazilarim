@@ -9,7 +9,7 @@ Sayısal_Uydu_Alıcıları_ve_İnternetteki_güvenlikleri.pdf
 
 
 #Kasım 2011 / 
-Jnyx Rootkit Analiz / 
+Jynx Rootkit Analiz / 
 jynx-rootkit.pdf
 
 
