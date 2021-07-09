@@ -1,6 +1,7 @@
 # BİLGİ
 
 Geçmiş zamanlarda yazdığım yazılar.
+Siber güvenlik, Rootkit, Analiz, Bot Network, DDoS, DoS , Exploit ...v.s...
 
 
 #Haziran 2013 / 
