@@ -4,7 +4,7 @@ Geçmiş zamanlarda yazdığım yazılar.
 
 ## Not
 
-Her ne kadar yazdıklarım yıllar öncesine ait olsa bile güncelliğini koruyor.
+Her ne kadar bu dökümanları yıllar öncesinde yazmama rağmen güncelliğini koruyor.
 
 <p style='color:blue'>###### **Güvenlik , gecesi gündüzü yok...**</p>
 
