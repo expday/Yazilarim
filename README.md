@@ -34,6 +34,14 @@ Bot_Network.pdf
 Sahte Exploitler / 
 Fake_Exploit.pdf
 
+
+#Aralık 2004 /
+Phishing_Rehberi / 
+Phishing_Rehberi.pdf
+
+
+
+
 &#x1F4D9; 
 ####Güncellenecek ...
 
