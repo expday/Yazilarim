@@ -4,6 +4,11 @@ Geçmiş zamanlarda yazdığım yazılar.
 Siber güvenlik, Rootkit, Analiz, Bot Network, DDoS, DoS , Exploit ...v.s...
 
 
+
+#Aralık 2015 / 
+Beurk-rootkit-password-cracking-and-injection-(gizliligin-anatomisi).pdf
+
+
 #Haziran 2013 / 
 Sayısal_Uydu_Alıcıları_ve_İnternetteki_güvenlikleri.pdf
 
