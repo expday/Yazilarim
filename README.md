@@ -22,7 +22,7 @@ jynx-rootkit.pdf
 
 
 🟣#Aralık 2010 / 
-PDF Malware Analiz / 
+Tehlikeli Dökümanlar / 
 PDF-Malware.pdf
 
 
