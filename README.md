@@ -47,7 +47,7 @@ Linux_Intrusion_Detection_System_LIDS.pdf
 
 
 🟣#Haziran 2003 / 
-Tehlikeli_modüllerin_tespiti_[Loadable_Kernel_Modules-LKMs] \
+Tehlikeli_modüllerin_tespiti / 
 Tehlikeli_modüllerin_tespiti_[Loadable_Kernel_Modules-LKMs].pdf
 
 
