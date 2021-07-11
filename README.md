@@ -41,6 +41,12 @@ Phishing_Rehberi /
 Phishing_Rehberi.pdf
 
 
+#Eylül 2004 / 
+Linux Intrusion Detection System (LIDS) / 
+Linux_Intrusion_Detection_System_LIDS.pdf
+
+
+
 #Aralık 2003 /
 Internet_Solucanları / 
 Internet_Solucanları.pdf
