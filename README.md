@@ -6,48 +6,48 @@ Siber güvenlik, Rootkit, Analiz, Bot Network, DDoS, DoS , Phishing , Exploit ..
 ***************************************************************************************
 
 
-#Aralık 2015 / 
+🟣#Aralık 2015 / 
 Gizliliğin Anatomisi / 
 Beurk-rootkit-password-cracking-and-injection-(gizliligin-anatomisi).pdf
 
 
-#Haziran 2013 / 
+🟣#Haziran 2013 / 
 Digital Receiver / 
 Sayısal_Uydu_Alıcıları_ve_İnternetteki_güvenlikleri.pdf
 
 
-#Kasım 2011 / 
+🟣#Kasım 2011 / 
 Jynx Rootkit Analiz / 
 jynx-rootkit.pdf
 
 
-#Aralık 2010 / 
+🟣#Aralık 2010 / 
 PDF Malware Analiz / 
 PDF-Malware.pdf
 
 
-#Haziran 2010 / 
+🟣#Haziran 2010 / 
 Bot Network / 
 Bot_Network.pdf
 
 
-#Eylül 2009 / 
+🟣#Eylül 2009 / 
 Sahte Exploitler / 
 Fake_Exploit.pdf
 
 
-#Aralık 2004 /
+🟣#Aralık 2004 /
 Phishing_Rehberi / 
 Phishing_Rehberi.pdf
 
 
-#Eylül 2004 / 
+🟣#Eylül 2004 / 
 Linux Intrusion Detection System (LIDS) / 
 Linux_Intrusion_Detection_System_LIDS.pdf
 
 
 
-#Aralık 2003 /
+🟣#Aralık 2003 /
 Internet_Solucanları / 
 Internet_Solucanları.pdf
 
