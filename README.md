@@ -36,6 +36,11 @@ Sahte Exploitler /
 Fake_Exploit.pdf
 
 
+🟣#Temmuz 2006 /
+Bir zafiyetin getirdikleri / 
+Bir_zafiyetin_getirdikleri.pdf
+
+
 🟣#Aralık 2004 /
 Phishing_Rehberi / 
 Phishing_Rehberi.pdf
@@ -56,9 +61,7 @@ Internet_Solucanları /
 Internet_Solucanları.pdf
 
 
-🟣#Temmuz 2006 /
-Bir zafiyetin getirdikleri / 
-Bir_zafiyetin_getirdikleri.pdf
+
 
 
 &#x1F4D9; 
