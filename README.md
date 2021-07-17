@@ -61,6 +61,9 @@ Internet_Solucanları /
 Internet_Solucanları.pdf
 
 
+🟣#Aralık 2002 /
+Analiz_Illogic_Rootkit / 
+Analiz_Illogic_Rootkit.pdf
 
 
 
