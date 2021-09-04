@@ -83,7 +83,7 @@ Her ne kadar bu dökümanları yıllar öncesinde yazmama rağmen içerikleri bi
 <p style='color:blue'>###### **Güvenlik , gecesi gündüzü yok...**</p>
 
 
-Donate(Bitcoin):
+Donate(Bitcoin): &#x1F4D9; 
 127UzCeSJALuyaR46G4bB4gqtFQjJ9t4wZ
 
 ![](https://github.com/expday/Yazilarim/raw/main/BTC.png)
