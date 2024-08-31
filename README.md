@@ -4,7 +4,9 @@ Geçmiş zamanlarda yazdığım yazılar.
 Siber güvenlik, Rootkit, Analiz, Bot Network, DDoS, DoS , Phishing , Exploit ...v.s...
 
 ***************************************************************************************
-
+🟣#Nisan 2024 /
+SSH Client Backdoor/
+SSH_Client_Backdoor.pdf
 
 🟣#Aralık 2015 / 
 Gizliliğin Anatomisi / 
