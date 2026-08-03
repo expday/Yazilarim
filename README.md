@@ -69,20 +69,7 @@ Analiz_Illogic_Rootkit.pdf
 
 
 
-&#x1F4D9; 
-####Güncellenecek ...
-
-
-
-
-
-
 
 ## Not
 
 Her ne kadar bu dökümanları yıllar öncesinde yazmama rağmen içerikleri bilgi bakımından güncelliğini koruyor.
-
-<p style='color:blue'>###### **Güvenlik , gecesi gündüzü yok...**</p>
-
-
-
